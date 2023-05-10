@@ -56,6 +56,8 @@ Beklenen Çıktı:
         arr1.add("C++");
 
         System.out.println(arr1);
+        
+        System.out.println();
 
 
 
